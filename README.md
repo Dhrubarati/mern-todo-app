@@ -4,11 +4,14 @@ A full-stack task management application designed to enhance productivity throug
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Deployment Links
 
-**Live App**: [https://to-do-frontend-chi.vercel.app/login](https://to-do-frontend-chi.vercel.app/login)
+- **Frontend (Vercel)**: [`https://to-do-frontend-chi.vercel.app/login`](https://to-do-frontend-chi.vercel.app/login)  
+  _Access the full-featured client interface. Sign up, log in, and manage your tasks effortlessly._
 
-> _Sign up, log in, and experience streamlined task management in action._
+- **Backend (Render)**: [`https://todobackend-y0yl.onrender.com`](https://todobackend-y0yl.onrender.com)  
+  _Handles all authentication and task-related API operations._
+
 
 ---
 
